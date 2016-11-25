@@ -1,0 +1,57 @@
+body {
+  font-size: 16px;
+  color: #000;
+  background-color: ;
+  font-family: Helvetica, Sans-Serif;
+}
+
+h1 {
+  font-size: 1.6em;
+}
+
+h2 {
+	font-size: 1.4em;
+}
+
+h3 {
+  font-size: 1.2em;
+}
+
+
+
+/* HEADER */
+
+#header-nav {
+  background-color: #000;
+  border-radius: 0px;
+  border: 2px solid #000;
+}
+
+.navbar-brand h1 {
+color: #fff;
+ margin: auto;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+
+#nav-list li {
+	border: solid 2px #000;
+	text-align: center;
+}
+
+/* END HEADER */
+
+/* HOMEPAGE */
+
+
+div #textholder {
+	background-color: black;
+  color: white;
+  padding: 10px;
+}
+
+
+  
